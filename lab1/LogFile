@@ -1,0 +1,16 @@
+LogFile is unbuffered.
+
+COMP 506 DEMO Compiler
+Run on 'agate.clear.rice.edu' at Sun Mar 15 18:43:48 2020
+Using code base R02.02
+
+File disposition:
+	opening file 'lex_error.demo'
+Parser, line 3: syntax error, unexpected UNKNOWN, expecting CHARCONST or LPAREN or NAME or NUMBER
+	lexeme is '#'.
+Parser, line 3: Unexpected semicolon; indicates an empty statement
+	lexeme is ';'.
+
+Parser fails with 1 error messages.
+Execution halts.
+Due to errors, deleting files (null) and (null)
